@@ -2,7 +2,7 @@
 
 HI, this is a little program for teammates to get analyzation data without tidious item checked.
 
-it can list top 5 or spectification error or failure efficiently.
+It can list top 5 or spectification error or failure efficiently.
 
 ![image](https://github.com/any5566g/WeaklyTop5/blob/master/%E6%93%B7%E5%8F%96.PNG?raw=true)
 
